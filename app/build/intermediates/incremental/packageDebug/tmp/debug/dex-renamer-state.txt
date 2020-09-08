@@ -1,0 +1,4 @@
+#Thu Apr 30 23:22:10 EDT 2020
+base.0=/home/sourav/AndroidStudioProjects/SimpleDht/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
